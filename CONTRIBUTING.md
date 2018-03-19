@@ -9,7 +9,7 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="https://i.imgur.com/0JFVZuT.png" alt="clone this repository" />
+<img align="right" width="300" src="https://i.imgur.com/0JFVZuT.png?1" alt="clone this repository" />
 
 Now clone this repo to your machine. Click on the clone button and then click the *copy to clipboard* icon.
 
