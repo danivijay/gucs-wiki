@@ -8,6 +8,7 @@ A well classified and comprehensive guide to Google Udacity Challenge Scholarshi
 #### General
 
 ## Contributers
+Names should be added in the alphabetical order of GitHub username.
 **format**: _github handle - slack handle_
 
 @danivijay - Dani M Vijay
