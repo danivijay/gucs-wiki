@@ -1,3 +1,7 @@
+<img align="right" width="300" src="https://i.imgur.com/E4FlFju.png" alt="fork this repository" />
+
+If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
+
 ## Fork this repository
 
 Fork this repo by clicking on the fork button on the top of this page.
