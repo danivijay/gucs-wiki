@@ -14,7 +14,9 @@ Open a terminal and run the following git command:
 ```
 git clone "url you just copied"
 ```
+
 where "url you just copied" (without the quote marks) is the url to this repository. See the previous steps to obtain the url.
+
 
 <img align="right" width="300" src="https://i.imgur.com/mVX0aQO.png" alt="copy URL to clipboard" />
 
