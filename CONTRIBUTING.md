@@ -11,7 +11,7 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="https://i.imgur.com/0JFVZuT.png?1" alt="clone this repository" />
 
-Now clone this repo to your machine. 
+Now clone this repo to your machine.
 Click on the clone button and then click the *copy to clipboard* icon.
 
 Open a terminal and run the following git command:
@@ -20,7 +20,7 @@ Open a terminal and run the following git command:
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quote marks) is the url to this repository. 
+where "url you just copied" (without the quote marks) is the url to this repository.
 See the previous steps to obtain the url.
 
 
@@ -57,7 +57,7 @@ After that open `README.md` file in a text editor. You must be familiar with Mar
 In this case, add your GitHub handle and Slack handle in appropriate place of `README.md:`, please note names are in alphabetical order of GitHub handle.
 
 ```
-@guthub handle - slack handle(without @)
+@github handle - slack handle(without @)
 ```
 
 For example:
