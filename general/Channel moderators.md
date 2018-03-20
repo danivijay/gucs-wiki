@@ -1,8 +1,7 @@
 # Channels and Moderators
----
-|                         |                     |                                      | 
-|-------------------------|---------------------|--------------------------------------| 
+
 | a                       | Slack Handle        | Channel Allotted                     | 
+|-------------------------|---------------------|--------------------------------------|
 | Kuldeep Pisda           | @kdpisda            | Moderator for #ama_official          | 
 | Kartik Arora            | @kartikarora        | Moderator for #ama_sessions          | 
 | SANMITRA DHARMAVARAPU   | @SANMITRA           | Moderator for #andhra_pradesh        | 
