@@ -3,11 +3,12 @@ A well classified and comprehensive guide to Google Udacity Challenge Scholarshi
 
 ## Index
 
+#### Activities
+* [Recite your story](https://github.com/danivijay/gucs-wiki/blob/master/activities/Recite%20your%20story.md)
+
 #### Slack
 * [Channel moderators](https://github.com/danivijay/gucs-wiki/blob/master/slack/Channel%20moderators.md)
 * [How to add images to slack](https://github.com/danivijay/gucs-wiki/blob/master/slack/How%20to%20add%20images%20to%20slack.md)
-
-#### General
 
 ## Contributers
 Names should be added in the alphabetical order of GitHub username.
