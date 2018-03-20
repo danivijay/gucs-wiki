@@ -1,4 +1,4 @@
-# Channels and Moderators
+# Moderators and channels
 
 | a                       | Slack Handle        | Channel Allotted                     | 
 |-------------------------|---------------------|--------------------------------------|

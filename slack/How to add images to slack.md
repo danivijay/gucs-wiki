@@ -1,4 +1,4 @@
-# How to add Images to the Slack Channel
+# How to add images to slack
 Uploading images directly is a no-no! Here are the steps to upload images properly to the slack channels
 ## on Web
 1. Click your name on **Direct Messages** section of sidebar.
