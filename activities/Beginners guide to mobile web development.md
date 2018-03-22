@@ -3,18 +3,25 @@
 ## Instructions
 
 1. The objective of this activity is to learn the basics of Mobile Web Development through undertaking tasks and completing them within the given time.
+
 2. This would provide useful learning experiences through collaboration and team work.
+
 3. Every week, a list of tasks would be posted and everyone is *suggested* to take up a task.
+
 4. Post the task number on the task list thread. Repetition is allowed only if the task list is exhausted. If the replies are very high, wait for me to post a new set of tasks.
+
 5. Wait for me to acknowledge your reply on the task list thread before you start to design the tutorial.
+
 6. A tutorial can be made in two ways-
 a) Writing a *Article on Medium*.
 b) Making a *Youtube Video*.
+
 7. Guidelines for making and posting the tutorial on the channel-
 a) Your article/video should be in *Clear English Sentences* and try to make it interesting.
 b) Your post for the tutorial should contain three things in the same order- *Activity Name*, *Task List Set Number*, *Task Number* and the *Link for the Article or Video* that you have made.
 c) Remember to keep the *article reading time/ video length not more than 15 minutes*.
 d) Failure in following the guidelines will result in the reiteration of the task undertaken.
+
 8. The deadline for completing the tasks is exactly a week from the day the task list was posted unless otherwise stated.
 
 9. We now have a separate *Youtube Brand Channel* and *Medium Publication* named *“Beginner’s Guide to Mobile Web Development”*.
@@ -73,7 +80,7 @@ d) Failure in following the guidelines will result in the reiteration of the tas
 
 7) Media Queries (Taken- @vikygeek)
 
-8)Google’s Material Design (Taken- @s.karthik.coder)
+8) Google’s Material Design (Taken- @s.karthik.coder)
 
 9) CSS Selectors (Taken- @runefaizan36)
 
