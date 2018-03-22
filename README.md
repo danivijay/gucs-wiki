@@ -19,4 +19,5 @@ Names should be added in the alphabetical order of GitHub username.
 **format**: _github handle - slack handle_
 
 * @Abdulkadir98 - Abdul Kadir
+* @ayushdev - AK
 * @danivijay - Dani M Vijay
