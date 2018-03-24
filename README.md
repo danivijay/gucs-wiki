@@ -5,7 +5,7 @@ A well classified and comprehensive guide to Google Udacity Challenge Scholarshi
 
 #### General
 * [Beginners FAQ](https://github.com/danivijay/gucs-wiki/blob/master/general/Beginners%20FAQ.md)
-* [How to install Wittr app on Windows](https://github.com/danivijay/gucs-wiki/blob/master/general/How%20to%20install%20Wittr%20app%20on%20windows.md)
+* [How to install Wittr app on Windows](https://github.com/danivijay/gucs-wiki/blob/master/general/How%20to%20install%20Wittr%20Application%20on%20Windows.md)
 
 #### Activities
 * [Beginner's guide to mobile web development](https://github.com/danivijay/gucs-wiki/blob/master/activities/Beginners%20guide%20to%20mobile%20web%20development.md)
@@ -22,3 +22,4 @@ A well classified and comprehensive guide to Google Udacity Challenge Scholarshi
 * @Abdulkadir98 - Abdul Kadir
 * @ayushdev - AK
 * @ashwani99 - ashwani
+* @sb7896 - Swapnil
