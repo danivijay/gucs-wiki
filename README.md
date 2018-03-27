@@ -9,6 +9,7 @@ A well classified and comprehensive guide to Google Udacity Challenge Scholarshi
 
 #### Activities
 * [Beginner's guide to mobile web development](https://github.com/danivijay/gucs-wiki/blob/master/activities/Beginners%20guide%20to%20mobile%20web%20development.md)
+* [ES6 Challenge](https://github.com/danivijay/gucs-wiki/blob/master/activities/ES6%20Challenge.md)
 * [Recite your story](https://github.com/danivijay/gucs-wiki/blob/master/activities/Recite%20your%20story.md)
 * [Student Testimonial](https://github.com/danivijay/gucs-wiki/blob/master/activities/Student%20testimonial.md)
 
