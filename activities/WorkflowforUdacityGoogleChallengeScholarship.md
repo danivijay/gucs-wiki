@@ -5,6 +5,7 @@
    1.This gives a overall quick reference for the  Entire Udacity Challenge Scholarship.
    2.Its useful to grasp the whole cycle of concepts and the approach.
 
+      <img src="/images/Workflow_Udacity_GoogleChallengeScholarship.png" alt="Workflow_Udacity_GoogleChallengeScholarship"/>
 
 
 
