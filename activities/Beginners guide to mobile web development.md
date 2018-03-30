@@ -124,7 +124,7 @@ d) Failure in following the guidelines will result in the reiteration of the tas
 
 ---
 
-*Task List Set 4*
+### Task List Set 4
 
 1) 4 Reasons to become a Web Developer. (Taken- @Mohan Sharma)
 
@@ -140,7 +140,7 @@ d) Failure in following the guidelines will result in the reiteration of the tas
 
 7) Javascript Proxies. (Taken- @Kartik Sharma)
 
-8)Javascript Generators. (Taken- @Shaan)
+8) Javascript Generators. (Taken- @Shaan)
 
 9) Javascript Symbols. (Taken- @Abdul Kadir)
 
