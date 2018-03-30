@@ -146,11 +146,11 @@ d) Failure in following the guidelines will result in the reiteration of the tas
 
 10) Transpiling. (Taken- @Gaurav Yadav)
 
-11) Heroku App Deployment using CLI. (Taken- @Sounak)
+11) Heroku App Deployment using CLI. (Taken- @sounak07)
 
 12) Comparison of Popular Javascript Front End Frameworks. (Taken- @manajit.pal)
 
-13) One off Event Listeners in JS. (Taken- )
+13) One off Event Listeners in JS. (Taken- @ashwani)
 
 14) VDOM vs lit-html (Taken- @Karthikeyan)
 
@@ -158,11 +158,11 @@ d) Failure in following the guidelines will result in the reiteration of the tas
 
 16) Shadow DOM. (Taken- @/anmol)
 
-17) Resize Observer. (Taken- @Rushali)
+17) Resize Observer. (Taken- @Ashwin Wadte)
 
 18) Libraries vs Frameworks. (Taken- @Chaitanya)
 
-19) Accessibility Object Model (AOM). (Taken- )
+19) Accessibility Object Model (AOM). (Taken- @Biboswan)
 
 20) Background Fetch. (Taken- @Dani M Vijay)
 
@@ -172,9 +172,24 @@ d) Failure in following the guidelines will result in the reiteration of the tas
 
 23) PouchDB (Taken- @Priyanka M)
 
-**Deadline:- 16th April 2018(Monday) 21:00 hours**
+24) Converting a Django App to a PWA. (Taken- @Scorpionk)
+
+25) Push Notifications. (Taken- @Rushali)
+
+26) Converting a ASP.NET Core App to a PWA. (Taken- @Ashwini)
+
+27) Introduction to Angular 4. (Taken- @nikhil)
+
+28) Introduction to Web Assembly. (Taken- )
+
+29) Hybrid Apps v/s Native Apps. (Taken- )
+
+30) Async Await. (Taken- @Jitesh Manglani)
+
+Deadline:- *16th April 2018(Monday) 21:00 hours*
 
 ---
+
 **Fill the Google Form (https://goo.gl/forms/TvYuIwtpPEGUEGqJ2) after your article is published on the Medium Publication**. So that, the tutorial link you provide should be of the Medium Publication and not of your personal story.
 > 
 Example of a correct link- https://medium.com/beginners-guide-to-mobile-web-development/service-worker-79f655b85465
