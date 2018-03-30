@@ -27,3 +27,4 @@ A well classified and comprehensive guide to Google Udacity Challenge Scholarshi
 * @ashwani99 - ashwani
 * @sb7896 - Swapnil
 * @Manojkumarj - ManojKumar
+* @gpalsingh - Gurpal
