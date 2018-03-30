@@ -123,6 +123,73 @@ d) Failure in following the guidelines will result in the reiteration of the tas
 **Deadline: 26th March 2018(Monday) 21:00 hours**
 
 ---
+
+*Task List Set 4*
+
+1) 4 Reasons to become a Web Developer. (Taken- @Mohan Sharma)
+
+2) The Fetch API. (Taken- @Swapnil)
+
+3) Arrow Functions in Javascript ES6. (Taken- @Twisha)
+
+4) “Super” and “Extends” in Javascript ES6 - Understanding the Tough Parts. (Taken- @anurag-majumdar)
+
+5) Javascript Sets and Weaksets. (Taken- @Aryak)
+
+6) Javascript Maps and Weakmaps. (Taken- @nben)
+
+7) Javascript Proxies. (Taken- @Kartik Sharma)
+
+8)Javascript Generators. (Taken- @Shaan)
+
+9) Javascript Symbols. (Taken- @Abdul Kadir)
+
+10) Transpiling. (Taken- @Gaurav Yadav)
+
+11) Heroku App Deployment using CLI. (Taken- @sounak07)
+
+12) Comparison of Popular Javascript Front End Frameworks. (Taken- @manajit.pal)
+
+13) One off Event Listeners in JS. (Taken- @ashwani)
+
+14) VDOM vs lit-html (Taken- @Karthikeyan)
+
+15) Auditing Websites using Audits 2.0 and Lighthouse. (Taken- @Priyanka M)
+
+16) Shadow DOM. (Taken- @/anmol)
+
+17) Resize Observer. (Taken- @Ashwin Wadte)
+
+18) Libraries vs Frameworks. (Taken- @Chaitanya)
+
+19) Accessibility Object Model (AOM). (Taken- @Biboswan)
+
+20) Background Fetch. (Taken- @Dani M Vijay)
+
+21) Auto Deployment using BitBucket and Heroku. (Taken- @manajit.pal)
+
+22) JS Design Patterns (Taken- @anu-007)
+
+23) PouchDB (Taken- @Priyanka M)
+
+24) Converting a Django App to a PWA. (Taken- @Scorpionk)
+
+25) Push Notifications. (Taken- @Rushali)
+
+26) Converting a ASP.NET Core App to a PWA. (Taken- @Ashwini)
+
+27) Introduction to Angular 4. (Taken- @nikhil)
+
+28) Introduction to Web Assembly. (Taken- )
+
+29) Hybrid Apps v/s Native Apps. (Taken- )
+
+30) Async Await. (Taken- @Jitesh Manglani)
+
+Deadline:- *16th April 2018(Monday) 21:00 hours*
+
+---
+
 **Fill the Google Form (https://goo.gl/forms/TvYuIwtpPEGUEGqJ2) after your article is published on the Medium Publication**. So that, the tutorial link you provide should be of the Medium Publication and not of your personal story.
 > 
 Example of a correct link- https://medium.com/beginners-guide-to-mobile-web-development/service-worker-79f655b85465
