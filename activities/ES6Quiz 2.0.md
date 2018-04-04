@@ -78,6 +78,20 @@ b.
 ```
 function stuff(x::Number, y::String) { // Do stuff.. }
 ```
-  
-
 i) Yes ii) No
+
+## Answers
+
+1. (a) [2, 1, 1]
+
+2. (b) . ['outer', 'outer']
+
+3. (b) 3
+
+4 (d) Error
+
+5. JavaScript passes function arguments by value. In case we pass an array or an object, the passed value is a reference. This means you can change the contents of the array or the object through that reference.
+
+6. (a) size
+
+7 (a) Yes    (b) No
