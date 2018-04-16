@@ -13,3 +13,12 @@ Write a Medium article about your experience so far with **Google Udacity Challe
 Finally, help others to improve their articles by providing your valuable feedback.
 
 Feel free to share your draft (https://help.medium.com/hc/en-us/articles/215564177-Share-draft) to me (@Dani M Vijay) via DM before publishing, in-order to double check its quality.
+
+### Published articles
+
+1. Udacity Scholarship and “You” - @nben - https://medium.com/@nben/udacity-scholarship-and-you-87ed3400c1c5
+2. How Google Udacity Challenge Scholarship for Mobile Web Specialist track changed my life - @Dani M Vijay - https://medium.com/the-web-club/how-google-udacity-challenge-scholarship-for-mobile-web-specialist-track-changed-my-life-ad867cb620a0
+3. My Journey with Udacity Mobile Web Specialist Scholarship - @Priyanka M - https://medium.com/@priyankaM/my-journey-with-udacity-mobile-web-specialist-scholarship-a06e2181a271
+4. Udacity’s Google Mobile Web Scholarship Challenge and its glorious effects! - @anurag-majumdar - https://medium.com/@anurag.majumdar/udacitys-google-mobile-web-scholarship-challenge-and-its-glorious-effects-9cd4979f5053
+5. My Journey of Google Udacity Challenge Scholarship - @sounak07 - https://medium.com/@sounakume/my-journey-of-google-udacity-challenge-scholarship-b0815411e1c7
+6. How I learned to make PWA’s and level up from my status as web developer to mobile web developer through Google Udacity Challenge Scholarship - @Vikranth - https://medium.com/@saivicky2015/how-i-learned-to-make-pwas-and-level-up-from-my-status-as-web-developer-to-mobile-web-developer-186da6c0dd5f
