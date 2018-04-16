@@ -14,7 +14,7 @@ Finally, help others to improve their articles by providing your valuable feedba
 
 Feel free to share your draft (https://help.medium.com/hc/en-us/articles/215564177-Share-draft) to me (@Dani M Vijay) via DM before publishing, in-order to double check its quality.
 
-### Published articles
+## Published articles
 
 ### 1. Udacity Scholarship and “You” 
 
