@@ -17,6 +17,7 @@ A well classified and comprehensive guide to Google Udacity Challenge Scholarshi
 * [Recite your story](https://github.com/danivijay/gucs-wiki/blob/master/activities/Recite%20your%20story.md)
 * [Student Testimonial](https://github.com/danivijay/gucs-wiki/blob/master/activities/Student%20testimonial.md)
 * [Write an article about (To be shared via DM)](https://github.com/danivijay/gucs-wiki/blob/master/activities/Write%20an%20article.md)
+* [Collaborative Projects](activities/Collaborative%20Projects.md)
 
 #### Slack
 * [Channel moderators](https://github.com/danivijay/gucs-wiki/blob/master/slack/Channel%20moderators.md)
