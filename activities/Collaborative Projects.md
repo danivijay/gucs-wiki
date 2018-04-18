@@ -16,7 +16,6 @@ This application can also be used to track progress of each application.
 
 When next batch of Udacity starts, this application link can be shared to give others an idea what the previous batch built. This application will showcase efforts of each and every individual collectively and not as separate teams.
 
-**Contact**: Slack [channel](https://mobilewebindiascholar.slack.com/messages/CA8MRBPAT)
 
 ### 2. [Notes App](https://github.com/UdacityMobileWebScholarship/just-notes)
 **Description**: Simple Note Progressive Web App with support of markdown. Simple app with some feature and saved notes in browser storage.
@@ -33,7 +32,6 @@ Tech use -
 + Marked.js for markdown
 + Bootstrap (some components)
 
-**Contact**: Slack [channel](https://mobilewebindiascholar.slack.com/messages/CA6V6GDGQ)
 
 ### 3. [Udacity Pathfinder PWA](https://github.com/UdacityMobileWebScholarship/udabot)
 **Description**: ChatBot for Udacity Programs: (Progressive Web Bot) 
@@ -48,9 +46,7 @@ Idea:
 Technology Stack:
 1. React with any Bot Framework including service worker
 
-**Contact**: Slack [channel](https://mobilewebindiascholar.slack.com/messages/CA7Q9Q2KX)
-
-### 4. [Blood Donation App](#)
+### 4. [Blood Donation App](https://github.com/UdacityMobileWebScholarship/blood-donation)
 **Description**: A platform where people can donate their blood directly to the patient rather than donating to the blood bank. The platform will help in decreasing storage costs of blood , maintain a database of peculiar donors with rare conditions. And require an authentication from registered doctors to  authorize a donation alert. It will send alert according to certain priorities as proximity to area, their relation with the patient etc. We may even reward the donors with some certificates and significant discount coupons.
 The app can even be expanded to include signup for organ donation and immediate report if someone dead's organs are required to save someone's life immediately.
 The main purpose is to cut the process where people just waste the critical time to save someone's life. And expansion can easily be  made either in medical area or social area.
@@ -61,12 +57,8 @@ Blood Donation application, that will connect blood banks, blood donors and bloo
 Building a web app for connecting blood donors to blood-needy people seamlessly.
 (Basic version of the app at: https://bloodbank-iiit.herokuapp.com)
 
-**Contact**: Slack [channel](#)
-
 ### 5. [Guess the Quote](https://github.com/UdacityMobileWebScholarship/guess-quote)
 **Description**: An PWA quiz game called Guess the Quote, that asks the user to guess who said the following quote or which book it belongs to. The main idea is to include music and animations and cache them for rich offline experience.
-
-**Contact**: Slack [channel](https://mobilewebindiascholar.slack.com/messages/CA7486673)
 
 ## FAQs
 
