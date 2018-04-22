@@ -13,3 +13,5 @@ Write a simple paragraph on your favorite ES6 feature, **3-8 sentences** are ide
 ES6Challenge
 
 Arrow Functions : They brought simplicity to my code. And helps to handle `this` better. Last but not least, they can save thousands of keystrokes per year! 
+
+### [UPDATE] Activity ended on 22-04-18
