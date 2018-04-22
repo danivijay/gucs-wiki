@@ -32,7 +32,7 @@
 |26.|Converting a ASP.NET Core App to a PWA|Ashwini||:x:|
 |27.|Introduction to Angular 4|nikhil||:x:|
 |28.|[Introduction to Web Assembly](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-web-assembly-6cb6466a3478)|pmishra2702||:heavy_check_mark:|
-|29.|Hybrid Apps v/s Native Apps|akashhamirwasia||:x:|
+|29.|Hybrid Apps v/s Native Apps|akashhamirwasia||:heavy_check_mark:|
 |30.|[Async Await](https://medium.com/beginners-guide-to-mobile-web-development/async-await-in-javascript-160ac5144b57)|jitesh Manglani||:heavy_check_mark:|
 |31.|[Which Javascript Framework you should choose?](https://medium.com/beginners-guide-to-mobile-web-development/js-frameworks-a-brief-overview-4b8754c3f1d5)|pmishra2702||:heavy_check_mark:|
 |32.|[Introduction to React](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-react-24784ab1ef2d)|drenther||:heavy_check_mark:|
