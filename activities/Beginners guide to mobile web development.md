@@ -6,6 +6,7 @@ Get a list of previous tasks from here:
 - [Task Set 2](../tutorials/task-set-2.md)
 - [Task Set 3](../tutorials/task-set-3.md)
 - [Task Set 4](../tutorials/task-set-4.md)
+- [Task Set 5](../tutorials/task-set-5.md)
 
 ## Instructions
 
