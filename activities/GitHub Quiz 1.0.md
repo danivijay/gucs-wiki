@@ -41,7 +41,8 @@ d. git checkout ---new <<branch name>>
 
 ### Question 4
 ```
-What is the best way to ensure that folders and files like (node_modules etc.) are never pushed to the git server?
+What is the best way to ensure that folders and files
+like (node_modules etc.) are never pushed to the git server?
 ```
 ```
 a. Never stage these folders and files with "git add".
