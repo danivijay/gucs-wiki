@@ -6,6 +6,7 @@ A well classified and comprehensive guide to Google Udacity Challenge Scholarshi
 #### General
 * [Beginners FAQ](general/Beginners%20FAQ.md)
 * [How to install Wittr app on Windows](general/How%20to%20install%20Wittr%20Application%20on%20Windows.md)
+* [How to install Wittr app on Mac OS](general/How%20to%20install%20Wittr%20Application%20on%20Mac.md)
 * [Workflow of challenge course](general/WorkflowforUdacityGoogleChallengeScholarship.md)
 
 #### Activities
@@ -29,9 +30,10 @@ A well classified and comprehensive guide to Google Udacity Challenge Scholarshi
 
 * @danivijay - Dani M Vijay
 * @Abdulkadir98 - Abdul Kadir
-* @ayushdev - AK
+* @ayushdev - Ayush Kumar
 * @ashwani99 - ashwani
 * @sb7896 - Swapnil
 * @Manojkumarj - ManojKumar
 * @gpalsingh - Gurpal
 * @anurag-majumdar - anurag-majumdar
+* @ManajitPal - Manajit Pal
