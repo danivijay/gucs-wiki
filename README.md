@@ -14,6 +14,7 @@ A well classified and comprehensive guide to Google Udacity Challenge Scholarshi
 * [ES6 Challenge](activities/ES6%20Challenge.md)
 * [ES6 Quiz](activities/ES6%20Quiz.md)
 * [ES6 Quiz 2.0](activities/ES6Quiz%202.0.md)
+* [GitHub Quiz 1.0](activities/GitHub%20Quiz%201.0.md) 
 * [Medium Article about Scholarship Experience](activities/Medium%20Article%20about%20Scholarship%20Experience.md)
 * [Recite your story](activities/Recite%20your%20story.md)
 * [Student Testimonial](activities/Student%20testimonial.md)
@@ -34,4 +35,5 @@ A well classified and comprehensive guide to Google Udacity Challenge Scholarshi
 * @sb7896 - Swapnil
 * @Manojkumarj - ManojKumar
 * @gpalsingh - Gurpal
+* @anurag-majumdar - anurag-majumdar
 * @ManajitPal - Manajit Pal
