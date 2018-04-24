@@ -5,7 +5,7 @@
 |Topic Number|Topic Name|Assignee (Slack Handle)|Status|
 |---|---|---|---|
 |1.|What’s new in HTML5|@faizan.khan|:hourglass:|
-|2.|What’s new in CSS3|@faizan.khan|:hourglass:|
+|2.|What’s new in CSS3|||
 |3.|Javascript Debugging using Modern Tools|||
 |4.|Javascript Performance|||
 |5.|Media Queries|||
