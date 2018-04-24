@@ -12,7 +12,7 @@
 |6.|[Flexbox in CSS](https://medium.com/beginners-guide-to-mobile-web-development/flexbox-in-css-dcc724c5cfb2)|manajitpal95||:heavy_check_mark:|
 |7.|[CSS Specificity & It’s Importance](https://medium.com/beginners-guide-to-mobile-web-development/css-specificity-its-importance-9633e568ee7f)|14mcei14||:heavy_check_mark:|
 |8.|ES6 Classes|smritigaba548||:x:|
-|9.|[Introduction to Webpack](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-webpack-4-e528a6b3fc16)|s.pathak5995||:heavy_check_mark:|
+|9.|[Introduction to Webpack](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-webpack-4-e528a6b3fc16)|drenther||:heavy_check_mark:|
 |10.|[Working with CSS variables](https://medium.com/beginners-guide-to-mobile-web-development/working-with-css-variables-3f8314cdeb56)|manajitpal95||:heavy_check_mark:|
 |11.|[An introduction to Node.js](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-node-js-8ea696da2b00)|jatin11gidwani||:heavy_check_mark:|
 |12.|A guide to Babel|sathannan||:x:|
