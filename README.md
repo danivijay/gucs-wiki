@@ -11,15 +11,16 @@ A well classified and comprehensive guide to Google Udacity Challenge Scholarshi
 
 #### Activities
 * [Beginner's guide to mobile web development](activities/Beginners%20guide%20to%20mobile%20web%20development.md)
+* [Collaborative Projects](activities/Collaborative%20Projects.md)
 * [ES6 Challenge](activities/ES6%20Challenge.md)
 * [ES6 Quiz](activities/ES6%20Quiz.md)
 * [ES6 Quiz 2.0](activities/ES6Quiz%202.0.md)
 * [GitHub Quiz 1.0](activities/GitHub%20Quiz%201.0.md) 
 * [Medium Article about Scholarship Experience](activities/Medium%20Article%20about%20Scholarship%20Experience.md)
+* [PWA Challenge](activities/PWA%20Challenge.md)
 * [Recite your story](activities/Recite%20your%20story.md)
 * [Student Testimonial](activities/Student%20testimonial.md)
 * [Write an article about (To be shared via DM)](activities/Write%20an%20article.md)
-* [Collaborative Projects](activities/Collaborative%20Projects.md)
 
 #### Slack
 * [Channel moderators](slack/Channel%20moderators.md)
