@@ -11,7 +11,7 @@
 |5.|Media Queries|||
 |6.|Observables vs Promises - An introduction to RxJS|||
 |7.|Web Image Formats|||
-|8.|JavaScript Event Loop|||
+|8.|JavaScript Event Loop|@ashwani|:hourglass:|
 |9.|ES6 Classes|||
 |10.|A guide to Babel|||
 |11.|Top Five Favourite/Most Used NPM Packages|||
