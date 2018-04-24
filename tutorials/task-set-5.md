@@ -2,7 +2,7 @@
 
 #### Deadline: 7th May 2018(Monday) 21:00 hours
 
-|Task Number|Topic|Assignee (Slack Handle)|Status|
+|Topic Number|Topic Name|Assignee (Slack Handle)|Status|
 |---|---|---|---|
 |1.|What’s new in HTML5|||
 |2.|What’s new in CSS3|||
