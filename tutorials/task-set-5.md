@@ -26,7 +26,7 @@
 |20.|Libraries vs Frameworks|||
 |21.|Background Fetch|||
 |22.|JS Design Patterns|||
-|23.|PouchDB|||
+|23.|PouchDB|@Karthikeyan|:hourglass:|
 |24.|Converting a ASP.NET Core App to a PWA|||
 |25.|Introduction to Angular 4|||
 |26.|Web Components|||
