@@ -10,13 +10,13 @@
 |4.|Javascript Performance|||
 |5.|Media Queries|||
 |6.|Observables vs Promises - An introduction to RxJS|||
-|7.|Web Image Formats|||
+|7.|Web Image Formats|@prabha|:hourglass:|
 |8.|JavaScript Event Loop|@ashwani|:hourglass:|
 |9.|ES6 Classes|@Abdul kadir|:hourglass:|
 |10.|A guide to Babel|||
 |11.|Top Five Favourite/Most Used NPM Packages|||
 |12.|4 Reasons to become a Web Developer|||
-|13.|The Fetch API|@prabha|:hourglass:|
+|13.|The Fetch API|||
 |14.|Javascript Sets and Weaksets|||
 |15.|Javascript Generators|||
 |16.|Transpiling|||
