@@ -4,7 +4,7 @@
 
 |Topic Number|Topic Name|Assignee (Slack Handle)|Status|
 |---|---|---|---|
-|1.|[What's new in HTML 5?](https://medium.com/beginners-guide-to-mobile-web-development/whats-new-in-html-5-4ce9d62bf114)|@faizan.khan|:heavy_check_mark:|
+|1.|[What's new in HTML 5?](https://medium.com/beginners-guide-to-mobile-web-development/whats-new-in-html-5-4ce9d62bf114)|@Faizan Khan|:heavy_check_mark:|
 |2.|What’s new in CSS3|||
 |3.|Javascript Debugging using Modern Tools|||
 |4.|Javascript Performance|||
