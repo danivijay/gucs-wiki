@@ -58,7 +58,7 @@ Building a web app for connecting blood donors to blood-needy people seamlessly.
 (Basic version of the app at: https://bloodbank-iiit.herokuapp.com)
 
 ### 5. [Guess the Quote](https://github.com/UdacityMobileWebScholarship/guess-quote)
-**Description**: An PWA quiz game called Guess the Quote, that asks the user to guess who said the following quote or which book it belongs to. The main idea is to include music and animations and cache them for rich offline experience.
+**Description**: It is a fun quiz game which is a progressive web app(PWA). Built during Collaborative Projects in Google Udacity Mobile Web Specialist Scholarship.This project is built to dive further deep into PWA and learn about caching music and animations using service worker.
 
 ## FAQs
 
