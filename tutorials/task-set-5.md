@@ -8,7 +8,7 @@
 |2.|What’s new in CSS3|||
 |3.|Javascript Debugging using Modern Tools|||
 |4.|Javascript Performance|||
-|5.|Media Queries|||
+|5.|Media Queries|@himanshu.negi|:hourglass:|
 |6.|Observables vs Promises - An introduction to RxJS|||
 |7.|Web Image Formats|@prabha|:hourglass:|
 |8.|JavaScript Event Loop|@ashwani|:hourglass:|
