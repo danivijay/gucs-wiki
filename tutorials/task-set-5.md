@@ -16,7 +16,7 @@
 |10.|A guide to Babel|||
 |11.|Top Five Favourite/Most Used NPM Packages|||
 |12.|4 Reasons to become a Web Developer|||
-|13.|The Fetch API|||
+|13.|[The Fetch API](https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c)|@Swapnil|:heavy-check-mark:|
 |14.|Javascript Sets and Weaksets|||
 |15.|Javascript Generators|||
 |16.|Transpiling|||
