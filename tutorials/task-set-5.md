@@ -17,7 +17,7 @@
 |11.|Top Five Favourite/Most Used NPM Packages|||
 |12.|4 Reasons to become a Web Developer|||
 |13.|[The Fetch API](https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c)|@Swapnil|:heavy_check_mark:|
-|14.|Javascript Sets and Weaksets|@Gurpal|:hourglass:|
+|14.|[Javascript Sets and Weaksets](https://medium.com/beginners-guide-to-mobile-web-development/javascript-sets-and-weaksets-c5feae75adc0)|@Gurpal|:heavy_check_mark:|
 |15.|Javascript Generators|||
 |16.|Transpiling|||
 |17.|Comparison of Popular Javascript Front End Frameworks|||
