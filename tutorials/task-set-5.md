@@ -27,6 +27,6 @@
 |21.|Background Fetch|||
 |22.|JS Design Patterns|@drenther|:hourglass:|
 |23.|PouchDB|@Karthikeyan|:hourglass:|
-|24.|Converting a ASP.NET Core App to a PWA|||
+|24.|Converting a ASP.NET Core App to a PWA|@ashwini|:hourglass:|
 |25.|Introduction to Angular 4|@sourya|:hourglass:|
 |26.|Web Components|||
