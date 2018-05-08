@@ -7,7 +7,7 @@
 |1.|[What's new in HTML 5?](https://medium.com/beginners-guide-to-mobile-web-development/whats-new-in-html-5-4ce9d62bf114)|@Faizan Khan|:heavy_check_mark:|
 |2.|What’s new in CSS3|||
 |3.|Javascript Debugging using Modern Tools|||
-|4.|Javascript Performance|||
+|4.|Javascript Performance|@Twisha|:hourglass|
 |5.|Media Queries|@himanshu.negi|:hourglass:|
 |6.|Observables vs Promises - An introduction to RxJS|||
 |7.|Web Image Formats|@prabha|:hourglass:|
