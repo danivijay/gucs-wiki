@@ -19,7 +19,7 @@
 |13.|[The Fetch API](https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c)|@Swapnil|:heavy_check_mark:|
 |14.|[Javascript Sets and Weaksets](https://medium.com/beginners-guide-to-mobile-web-development/javascript-sets-and-weaksets-c5feae75adc0)|@Gurpal|:heavy_check_mark:|
 |15.|Javascript Generators|||
-|16.|Transpiling|||
+|16.|Transpiling|@Karthikeyan|:hourglass:|
 |17.|Comparison of Popular Javascript Front End Frameworks|||
 |18.|VDOM vs lit-html|||
 |19.|Auditing Websites using Audits 2.0 and Lighthouse|||
