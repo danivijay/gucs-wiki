@@ -28,5 +28,5 @@
 |22.|JS Design Patterns|@drenther|:hourglass:|
 |23.|[PouchDB](https://medium.com/beginners-guide-to-mobile-web-development/getting-started-with-pouchdb-f0f3d7baebab)|@Karthikeyan|:heavy_check_mark:|
 |24.|[Converting a ASP.NET Core App to a PWA](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-pwa-in-asp-net-core-application-da96c7cc4918)|@ashwini|:heavy_check_mark:|
-|25.|Introduction to Angular 4|@sourya|:hourglass:|
+|25.|[Introduction to Angular 4](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-angular-4-a-beginners-guide-db4dd2b77885)|@sourya|:heavy_check_mark:|
 |26.|Web Components|||
