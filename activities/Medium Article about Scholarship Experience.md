@@ -57,3 +57,21 @@ Link: https://medium.com/@saivicky2015/how-i-learned-to-make-pwas-and-level-up-f
 Author: **@prabha** 
 
 Link: https://medium.com/@prabha0106/my-pwa-progressive-wonderful-awe-inspiring-journey-8ea617ed557a
+
+### 8. My Journey With Udacity Google India challenge Scholarship.
+
+Author: **@AnupamSeervi**
+
+Link: https://medium.com/@anupamseervi99/my-journey-with-udacity-google-india-challenge-scholarship-7703b0f85160
+
+### 9. My Journey of becoming a Google Udacity Scholarship Aspirant
+
+Author: **@Biboswan**
+
+Link: https://medium.com/@Biboswan98/my-journey-of-becoming-a-google-udacity-scholarship-aspirant-b414c6007e3f
+
+### 10. My Journey as the Recipient of Google Udacity Challange Scholarship Program
+
+Auther: **@Muskan Jain**
+
+Link: https://medium.com/@muskan210497/my-journey-as-the-recipient-of-google-udacity-challange-scholarship-program-60a08d06f30d
