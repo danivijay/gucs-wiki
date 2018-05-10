@@ -14,4 +14,5 @@ ES6Challenge
 
 Arrow Functions : They brought simplicity to my code. And helps to handle `this` better. Last but not least, they can save thousands of keystrokes per year! 
 
-### [UPDATE] Activity ended on 22-04-18
+### [UPDATE 1] ~~Activity ended on 22-04-18~~
+### [UPDATE 2] Deadline extended to 13-05-18

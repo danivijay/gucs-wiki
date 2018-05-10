@@ -7,7 +7,7 @@ Create a Progressive Web App (PWA). Code should be published in GitHub. Post the
 
 * Project can be as simple as a Note taking app or a To-Do list app.
 * **GitHub repo should be initiated on or after 23-04-2018**.
-* **Last date of submission : 11-05-2018**.
+* **Last date of submission : ~~11-05-2018~~ 13-05-18**.
 * This task can be done **individually or in groups**. **There are no limits in number of collaborators**.
 * You can **request help from fellow students in #share_ideas**, by posting your idea.
 
