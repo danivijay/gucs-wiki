@@ -72,6 +72,18 @@ Link: https://medium.com/@Biboswan98/my-journey-of-becoming-a-google-udacity-sch
 
 ### 10. My Journey as the Recipient of Google Udacity Challange Scholarship Program
 
-Auther: **@Muskan Jain**
+Author: **@Muskan Jain**
 
 Link: https://medium.com/@muskan210497/my-journey-as-the-recipient-of-google-udacity-challange-scholarship-program-60a08d06f30d
+
+### 11. My Journey towards PWA
+
+Author: **@Abhinav Jha**
+
+Link: https://medium.com/@abhinavjha98ald/my-journey-towards-pwa-f12696103123
+
+### 12. My Journey as a Google India Challenge Scholarship scholar
+
+Author: **@Sahil Dhawan**
+
+Link: https://medium.com/@excelsior.sd/my-journey-as-a-google-india-challenge-scholarship-scholar-819e9f001c7f
