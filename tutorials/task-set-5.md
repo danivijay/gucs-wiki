@@ -12,7 +12,7 @@
 |6.|Observables vs Promises - An introduction to RxJS|||
 |7.|Web Image Formats|@prabha|:hourglass:|
 |8.|JavaScript Event Loop|@ashwani|:hourglass:|
-|9.|ES6 Classes|@Abdul kadir|:hourglass:|
+|9.|[ES6 Classes](https://medium.com/beginners-guide-to-mobile-web-development/javascript-introduction-to-es6-classes-ecb2db9fe985)|@Abdul kadir|:heavy_check_mark:|
 |10.|A guide to Babel|||
 |11.|Top Five Favourite/Most Used NPM Packages|||
 |12.|4 Reasons to become a Web Developer|||
