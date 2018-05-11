@@ -23,7 +23,7 @@
 |17.|[Resize Observer](https://medium.com/beginners-guide-to-mobile-web-development/resizeobserver-a-new-way-to-attach-listeners-to-listen-to-size-changes-of-observed-elements-915c4c3f19c1)|Ashwin.Wadte||:heavy_check_mark:|
 |18.|Libraries vs Frameworks|Chaitanya||:x:|
 |19.|[Accessibility Object Model (AOM)](https://medium.com/beginners-guide-to-mobile-web-development/accessibility-object-model-aom-part-1-8dc257fdb2d2)|Biboswan||:heavy_check_mark:|
-|20.|Background Fetch|Dani M Vijay||:x:|
+|20.|[Background Sync - Steroid for Web Apps](https://medium.com/beginners-guide-to-mobile-web-development/background-sync-steroid-for-web-apps-3c3233cffbff)|Dani M Vijay||:heavy_check_mark:|
 |21.|[Auto Deployment using BitBucket and Heroku](https://medium.com/beginners-guide-to-mobile-web-development/auto-deployment-using-bitbucket-and-heroku-521b4271cc27)|manajit.pal||:heavy_check_mark:|
 |22.|JS Design Patterns|anu-007||:x:|
 |23.|PouchDB|Priyanka M||:x:|
