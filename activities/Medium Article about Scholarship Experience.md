@@ -87,3 +87,9 @@ Link: https://medium.com/@abhinavjha98ald/my-journey-towards-pwa-f12696103123
 Author: **@Sahil Dhawan**
 
 Link: https://medium.com/@excelsior.sd/my-journey-as-a-google-india-challenge-scholarship-scholar-819e9f001c7f
+
+### 13. Google Udacity Scholarship and getting my idea selected for Collaborative Projects
+
+Author: **@realslimshanky**
+
+Link: https://blog.shanky.xyz/google-udacity-scholarship.html
