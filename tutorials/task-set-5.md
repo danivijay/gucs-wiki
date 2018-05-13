@@ -5,7 +5,7 @@
 |Topic Number|Topic Name|Assignee (Slack Handle)|Status|
 |---|---|---|---|
 |1.|[What's new in HTML 5?](https://medium.com/beginners-guide-to-mobile-web-development/whats-new-in-html-5-4ce9d62bf114)|@Faizan Khan|:heavy_check_mark:|
-|2.|What’s new in CSS3|@Sahil Dhawan|:hourglass:|
+|2.|[What’s new in CSS3](https://medium.com/beginners-guide-to-mobile-web-development/whats-new-in-css-3-dcd7fa6122e1)|@Sahil Dhawan|:heavy_check_mark:|
 |3.|Javascript Debugging using Modern Tools|||
 |4.|[Javascript Performance](https://medium.com/beginners-guide-to-mobile-web-development/javascript-performance-371a0ab28cb7)|@Twisha|:heavy_check_mark:|
 |5.|[Media Queries](https://medium.com/beginners-guide-to-mobile-web-development/media-queries-54a1a463356f)|@himanshu.negi|:heavy_check_mark:|
