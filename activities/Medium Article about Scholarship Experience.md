@@ -93,3 +93,21 @@ Link: https://medium.com/@excelsior.sd/my-journey-as-a-google-india-challenge-sc
 Author: **@realslimshanky**
 
 Link: https://blog.shanky.xyz/google-udacity-scholarship.html
+
+### 14. What I took away from Udacity’s Google India Scholarship Challenge!
+
+Author: **@Abdul Kadir**
+
+Link: https://medium.com/@Abdulkadir98/what-i-took-away-from-udacitys-google-india-scholarship-challenge-96542da417ce
+
+### 15. My Journey as a Recipient of Google-Udacity Challenge Scholarship Program
+
+Author: **@Bhuvaneshwar**
+
+Link: https://medium.com/@bhuvaneshwaranpi/my-journey-as-a-recipient-of-google-udacity-challenge-scholarship-program-b269701b5275
+
+### 16. Rediscovering the joys of learning: The Udacity Google India Scholarship Experience
+
+Author: **@Aroma Rodrigues**
+
+Link: https://medium.com/@aromarodrigues/rediscovering-the-joys-of-learning-the-udacity-google-india-scholarship-experience-e401fa3c9bb2/
