@@ -14,13 +14,8 @@
 |8.|JavaScript Event Loop|@ashwani|:hourglass:|
 |9.|[ES6 Classes](https://medium.com/beginners-guide-to-mobile-web-development/javascript-introduction-to-es6-classes-ecb2db9fe985)|@Abdul kadir|:heavy_check_mark:|
 |10.|A guide to Babel|||
-<<<<<<< HEAD
 |11.|[Top Five Favourite/Most Used NPM Packages](https://medium.com/beginners-guide-to-mobile-web-development/top-5-npm-packages-and-their-uses-e4e5194b4649)|@Yash|:heavy_check_mark:|
-|12.|4 Reasons to become a Web Developer|||
-=======
-|11.|Top Five Favourite/Most Used NPM Packages|@Yash|:hourglass:|
 |12.|[4 Reasons to become a Web Developer](https://medium.com/beginners-guide-to-mobile-web-development/4-reasons-to-become-a-web-developer-9ca581d9bd3a)|@AnupamSeervi|:heavy_check_mark:|
->>>>>>> cda99747111f40e7ddfca9847db1501cd5388b8d
 |13.|[The Fetch API](https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c)|@Swapnil|:heavy_check_mark:|
 |14.|[Javascript Sets and Weaksets](https://medium.com/beginners-guide-to-mobile-web-development/javascript-sets-and-weaksets-c5feae75adc0)|@Gurpal|:heavy_check_mark:|
 |15.|Javascript Generators|||
