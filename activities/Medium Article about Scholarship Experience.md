@@ -111,3 +111,15 @@ Link: https://medium.com/@bhuvaneshwaranpi/my-journey-as-a-recipient-of-google-u
 Author: **@Aroma Rodrigues**
 
 Link: https://medium.com/@aromarodrigues/rediscovering-the-joys-of-learning-the-udacity-google-india-scholarship-experience-e401fa3c9bb2/
+
+### 17. My journey in GPU
+
+Author: **@SANMITRA**
+
+Link: https://medium.com/@goodfriend2899/my-journey-in-gpu-b53de60fb1f
+
+### 18. A wonderful 3 month journey into Google India Scholarship Challenge
+
+Author: **@Yash**
+
+Link: https://medium.com/@yashaizen/a-wonderful-3-month-journey-into-google-india-scholarship-challenge-60b61d6a214e
