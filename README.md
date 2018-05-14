@@ -1,4 +1,5 @@
-# Google Udacity Challenge Scholarship 2018 - Mobile Web Specialist track Wiki
+# Google Udacity Challenge Scholarship 2018 - Mobile Web Specialist track Wiki [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](LICENCE)
+
 A well classified and comprehensive guide to Google Udacity Challenge Scholarship 2018 - Mobile Web Specialist track.
 
 ## Index
