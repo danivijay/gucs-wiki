@@ -10,7 +10,7 @@
 |4.|[Javascript Performance](https://medium.com/beginners-guide-to-mobile-web-development/javascript-performance-371a0ab28cb7)|@Twisha|:heavy_check_mark:|
 |5.|[Media Queries](https://medium.com/beginners-guide-to-mobile-web-development/media-queries-54a1a463356f)|@himanshu.negi|:heavy_check_mark:|
 |6.|Observables vs Promises - An introduction to RxJS|||
-|7.|Web Image Formats|@prabha|:hourglass:|
+|7.|[Web Image Formats](https://medium.com/beginners-guide-to-mobile-web-development/web-image-formats-googles-webp-17e2fe5fc53e)|@prabha|:heavy_check_mark:|
 |8.|JavaScript Event Loop|@ashwani|:hourglass:|
 |9.|[ES6 Classes](https://medium.com/beginners-guide-to-mobile-web-development/javascript-introduction-to-es6-classes-ecb2db9fe985)|@Abdul kadir|:heavy_check_mark:|
 |10.|A guide to Babel|||
