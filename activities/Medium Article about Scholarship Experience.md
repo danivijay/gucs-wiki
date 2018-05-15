@@ -123,3 +123,21 @@ Link: https://medium.com/@goodfriend2899/my-journey-in-gpu-b53de60fb1f
 Author: **@Yash**
 
 Link: https://medium.com/@yashaizen/a-wonderful-3-month-journey-into-google-india-scholarship-challenge-60b61d6a214e
+
+### 19. My Journey as a a Google Mobile Web Specialist
+
+Author: **@brucewayne**
+
+Link: https://medium.com/@sulekhia/my-journey-as-a-a-google-mobile-web-specialist-21eadcc1d340
+
+### 20. My Last Day Rush and Fun: Udacity’s Google India Scholarship
+
+Author: **@Akhi**
+
+Link: https://medium.com/@akhilmhdh/my-last-day-rush-and-fun-udacitys-google-india-scholarship-b4ff96989943
+
+### 21. Google India Challenge Scholarship Experience : Mobile Web Specialist
+
+Author: **@gauravano**
+
+Link: https://medium.com/@gauravano/google-india-challenge-scholarship-mobile-web-experience-phase-1-8cbaf95fa522
